@@ -1,33 +1,30 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Vivado HW Folder
+*.hw
+*.info
+*.lpr
 
-# Precompiled Headers
-*.gch
-*.pch
+# Vivado RUNS Folder
+*.runs
+*.backup.*
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Vivado CACHE Folder
+*.cache
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Vivado .Jobs Folder
+*.jobs
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Log and report files
+*.log
+*.vds
+*.vdi
+*.rpt
 
-# Debug files
-*.dSYM/
-*.su
+# Rst files
+*.rst
+
+# Os Files
+*.os
+
+# Pb Files
+*.pb
+
