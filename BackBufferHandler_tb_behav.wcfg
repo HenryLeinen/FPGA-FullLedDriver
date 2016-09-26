@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="BackBufferHandler_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="BackBufferHandler_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="40000001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/BackBufferHandler_tb/DUT/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BackBufferHandler_tb/DUT/backbuffer_out" type="logic">
+      <obj_property name="ElementShortName">backbuffer_out</obj_property>
+      <obj_property name="ObjectShortName">backbuffer_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BackBufferHandler_tb/DUT/v_sync" type="logic">
+      <obj_property name="ElementShortName">v_sync</obj_property>
+      <obj_property name="ObjectShortName">v_sync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BackBufferHandler_tb/DUT/switch_req" type="logic">
+      <obj_property name="ElementShortName">switch_req</obj_property>
+      <obj_property name="ObjectShortName">switch_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BackBufferHandler_tb/DUT/clr_switch_req" type="logic">
+      <obj_property name="ElementShortName">clr_switch_req</obj_property>
+      <obj_property name="ObjectShortName">clr_switch_req</obj_property>
+   </wvobject>
+</wave_config>

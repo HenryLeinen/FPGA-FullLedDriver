@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="spi_basic_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="spi_basic_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="274361698fs"></ZoomStartTime>
+      <ZoomEndTime time="1931127661fs"></ZoomEndTime>
+      <Cursor1Time time="1655000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/spi_basic_tb/DUT/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/SCLK" type="logic">
+      <obj_property name="ElementShortName">SCLK</obj_property>
+      <obj_property name="ObjectShortName">SCLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/MOSI" type="logic">
+      <obj_property name="ElementShortName">MOSI</obj_property>
+      <obj_property name="ObjectShortName">MOSI</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/MISO" type="logic">
+      <obj_property name="ElementShortName">MISO</obj_property>
+      <obj_property name="ObjectShortName">MISO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/SS" type="logic">
+      <obj_property name="ElementShortName">SS</obj_property>
+      <obj_property name="ObjectShortName">SS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/tx" type="array">
+      <obj_property name="ElementShortName">tx[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tx[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/rx" type="array">
+      <obj_property name="ElementShortName">rx[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rx[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/new_data" type="logic">
+      <obj_property name="ElementShortName">new_data</obj_property>
+      <obj_property name="ObjectShortName">new_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/count" type="array">
+      <obj_property name="ElementShortName">count[3:0]</obj_property>
+      <obj_property name="ObjectShortName">count[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/edge_count" type="logic">
+      <obj_property name="ElementShortName">edge_count</obj_property>
+      <obj_property name="ObjectShortName">edge_count</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_basic_tb/DUT/ltx" type="array">
+      <obj_property name="ElementShortName">ltx[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ltx[7:0]</obj_property>
+   </wvobject>
+</wave_config>

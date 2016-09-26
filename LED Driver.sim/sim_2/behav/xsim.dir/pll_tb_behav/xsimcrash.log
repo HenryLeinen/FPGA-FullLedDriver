@@ -1,0 +1,46 @@
+Unable to capture context for thread 5724 in process 11860, can not generate back trace
+Unable to capture context for thread 548 in process 11860, can not generate back trace
+Unable to capture context for thread 9700 in process 11860, can not generate back trace
+Unable to capture context for thread 4108 in process 11860, can not generate back trace
+Unable to capture context for thread 3148 in process 11860, can not generate back trace
+Unable to capture context for thread 2784 in process 11860, can not generate back trace
+Unable to capture context for thread 4928 in process 11860, can not generate back trace
+Exception at PC 0x00007FFA16D5BB93
+Printing stacktrace...
+
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Unable to capture context for thread 4276 in process 11860, can not generate back trace
+Unable to capture context for thread 10132 in process 11860, can not generate back trace
+Exception at PC 0x00007FFA50227788
+Unable to capture context for thread 10224 in process 11860, can not generate back trace
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+Exception at PC 0x00007FFA50227788
+[0]  [0x00007FFA16D5BB93]
+[1]  [0x00007FFA16D5BB93]
+[2]  [0x00007FFA16D5B4A1]
+[3]  [0x00007FFA16D5B459]
+[4]  [0x00007FFA16D419FE]
+[5]  [0x00007FFA16D40ED1]
+[6]  [0x00007FFA16D40D76]
+[7]  [0x00007FFA16CE79F6]
+[8]  [0x00007FFA16CD7AFB]
+[9]  [0x00007FFA16DFE90A]
+[10]  [0x00007FFA16E19F87]
+[11]  [0x00007FFA16E1A05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFA526F8364]
+[13] (RtlUserThreadStart+0x21) [0x00007FFA53135E91]
+Done

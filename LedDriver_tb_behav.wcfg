@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="LedDriver_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="LedDriver_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="651586666666fs"></ZoomStartTime>
+      <ZoomEndTime time="652922666667fs"></ZoomEndTime>
+      <Cursor1Time time="652700000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/LedDriver_tb/clk50" type="logic">
+      <obj_property name="ElementShortName">clk50</obj_property>
+      <obj_property name="ObjectShortName">clk50</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/rd_data_upper" type="array">
+      <obj_property name="ElementShortName">rd_data_upper[23:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data_upper[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/rd_data_lower" type="array">
+      <obj_property name="ElementShortName">rd_data_lower[23:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data_lower[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/rd_addr" type="array">
+      <obj_property name="ElementShortName">rd_addr[9:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_addr[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/A" type="array">
+      <obj_property name="ElementShortName">A[3:0]</obj_property>
+      <obj_property name="ObjectShortName">A[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/RED" type="array">
+      <obj_property name="ElementShortName">RED[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RED[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/GREEN" type="array">
+      <obj_property name="ElementShortName">GREEN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">GREEN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/BLUE" type="array">
+      <obj_property name="ElementShortName">BLUE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">BLUE[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/LE" type="logic">
+      <obj_property name="ElementShortName">LE</obj_property>
+      <obj_property name="ObjectShortName">LE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/OE_N" type="logic">
+      <obj_property name="ElementShortName">OE_N</obj_property>
+      <obj_property name="ObjectShortName">OE_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/v_sync" type="logic">
+      <obj_property name="ElementShortName">v_sync</obj_property>
+      <obj_property name="ObjectShortName">v_sync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/state" type="array">
+      <obj_property name="ElementShortName">state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">state[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/bitplane" type="array">
+      <obj_property name="ElementShortName">bitplane[2:0]</obj_property>
+      <obj_property name="ObjectShortName">bitplane[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/bitplane_timer" type="array">
+      <obj_property name="ElementShortName">bitplane_timer[14:0]</obj_property>
+      <obj_property name="ObjectShortName">bitplane_timer[14:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/col" type="array">
+      <obj_property name="ElementShortName">col[4:0]</obj_property>
+      <obj_property name="ObjectShortName">col[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LedDriver_tb/DUT/row" type="array">
+      <obj_property name="ElementShortName">row[3:0]</obj_property>
+      <obj_property name="ObjectShortName">row[3:0]</obj_property>
+   </wvobject>
+</wave_config>

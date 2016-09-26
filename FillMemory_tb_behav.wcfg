@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="FillMemory_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="FillMemory_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="23150001fs"></ZoomEndTime>
+      <Cursor1Time time="10150000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/FillMemory_tb/DUT/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FillMemory_tb/DUT/cs_n" type="logic">
+      <obj_property name="ElementShortName">cs_n</obj_property>
+      <obj_property name="ObjectShortName">cs_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FillMemory_tb/DUT/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FillMemory_tb/DUT/wr_addr" type="array">
+      <obj_property name="ElementShortName">wr_addr[10:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_addr[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FillMemory_tb/DUT/wr_data" type="array">
+      <obj_property name="ElementShortName">wr_data[23:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_data[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FillMemory_tb/DUT/wr_ena" type="logic">
+      <obj_property name="ElementShortName">wr_ena</obj_property>
+      <obj_property name="ObjectShortName">wr_ena</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FillMemory_tb/DUT/row" type="array">
+      <obj_property name="ElementShortName">row[4:0]</obj_property>
+      <obj_property name="ObjectShortName">row[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FillMemory_tb/DUT/col" type="array">
+      <obj_property name="ElementShortName">col[5:0]</obj_property>
+      <obj_property name="ObjectShortName">col[5:0]</obj_property>
+   </wvobject>
+</wave_config>
